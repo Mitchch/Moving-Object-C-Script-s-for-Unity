@@ -22,6 +22,8 @@ public class MovingObject : MonoBehaviour
 
     public bool baseAtStart;
 
+    public bool teleport;
+
     // Start is called before the first frame update
     void Start()
     {
